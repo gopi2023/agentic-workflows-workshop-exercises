@@ -79,6 +79,7 @@ repository context. Do not invent missing details.
 4. what is the priority
 5. Platform type
 6. scale used
+7. if any of the above is missing add "need-info" label to the issue.
 <!-- TODO 2A:
 Define the evidence required for a bug and for a feature or task.
 Define what the workflow should do when essential information is missing.
