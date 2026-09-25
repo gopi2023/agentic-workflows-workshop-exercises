@@ -40,6 +40,11 @@ safe-outputs:
       - question
       - duplicates
       - assigned
+      - invalid
+      - priority/p0
+      - priority/p1
+      - priority/p2
+      - suggested-team/developer-experience
 # TODO 1: Add the labels needed for incomplete issues, duplicates,
       # invalid submissions, spam, priorities p0 through p2, and the three
       # suggested-team routing options.
