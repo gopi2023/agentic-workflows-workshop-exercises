@@ -73,6 +73,12 @@ repository context. Do not invent missing details.
 
 ## 2. Assess completeness
 
+1. Does the bug have description 
+2. Does it have any logs
+3. Does it have any comments
+4. what is the priority
+5. Platform type
+6. scale used
 <!-- TODO 2A:
 Define the evidence required for a bug and for a feature or task.
 Define what the workflow should do when essential information is missing.
